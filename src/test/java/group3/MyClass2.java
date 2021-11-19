@@ -70,5 +70,6 @@ public class MyClass2 {
         System.out.println("my first stash line");
         System.out.println("my first stash line");
         System.out.println("55555master second line");
+
     }
 }
