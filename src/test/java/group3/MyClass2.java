@@ -4,8 +4,7 @@ public class MyClass2 {
     public static void main(String[] args) {
 
 
-        System.out.println("9999999my first stash2 line");
-        System.out.println("my first stash line");
+        System.out.println("44444555666my first stash line");
         System.out.println("11111111My local line");
         System.out.println("my first stash2 line");
         System.out.println("my first stash line");
