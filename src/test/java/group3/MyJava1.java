@@ -9,6 +9,7 @@ public class MyJava1 {
         System.out.println("My local line");
         System.out.println("my second stash line");
 
+        System.out.println("my first stash2 line");
         System.out.println("my first stash line");
     }
 }
